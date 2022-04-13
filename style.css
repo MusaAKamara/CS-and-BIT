@@ -1,0 +1,121 @@
+/*
+
+*{
+    background-color: pink;
+
+}
+
+*/
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+
+
+ul {
+    margin-right: 30px; 
+    padding-right: 800px;
+    list-style: none;
+    background-color: pink;
+    display: inline-flex;
+    text-align: right;
+
+    
+}
+
+
+
+
+ul li{
+    width: 120px;
+    margin: 15px;
+    padding:right;
+}
+
+
+ul li a{
+    color: white;
+    text-decoration: none;
+    text-align: right;
+
+
+}
+
+.active, ul li:hover
+{
+background: #2bab0d;
+border-radius: 55px;
+text-align: center;
+}
+
+/*
+.active, ul li:hover a{
+    border-right: 54px;
+
+}
+*/
+/*
+p{
+    background-color: hsl(112, 8%, 81%);
+}
+
+
+img {
+    margin: 5px;
+    width: 250px; 
+   
+    
+
+}
+
+div img {
+    text-align: left;
+
+}
+
+
+img1 p1 img2 p2 img3 p3 img4 p4   {
+    border:20px ;
+    padding: 25px;
+}
+*/
+
+h1{
+    background-color: yellow;
+    color: black;
+    /*position: fixed;
+    top: 30px;*/
+}
+
+img{
+ float: right;
+ margin: 10px;
+ width: 350px; 
+ 
+}
+
+div{
+    border: 5px;
+    width: 400px;
+    margin: 20px;
+}
+
+/*
+
+div P1{
+    border: 1px solid;
+    width: 339px;
+    text-align: right;
+    
+}
+
+
+div p1{
+    text-align: center;
+    border-right: 5PX;
+}
+*/
